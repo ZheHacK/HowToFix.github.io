@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Made Wiguna project
+title: ZheHacK project
 
 # Your name to show in the footer
-author: Made Wiguna
+author: ZheHacK
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Tool:
-    - Hitung Kata: "https://madewiguna.netlify.app/proyek/wordcounter.html"
+    - Hitung Kata: "https://zhehack.netlify.app/proyek/wordcounter.html"
     - Html live editor: "https://cloudedit.netlify.app/"
-  Author's home: "https://madewiguna.netlify.app/"
+  Author's home: "https://zhehack.netlify.app/"
 
 # --- Logo --- #
 
@@ -39,25 +39,25 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "MadeWgn2@gmail.com"
-  facebook: deanattali
-  github: MadeWiguna
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "zhehacindo@gmail.com"
+  facebook: ZheHacK
+  github: ZheHacK
+  twitter: ZheHacK
+  patreon: ZheHacK
+  youtube: c/ZheHacK
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: ZheHacK
+#  instagram: ZheHacK
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: ZheHacK
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: Madeadiwiguna
+#  telegram: ZheHacK
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
